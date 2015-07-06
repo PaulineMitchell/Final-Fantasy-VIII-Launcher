@@ -5,7 +5,7 @@ Final-Fantasy-VIII is finally here! There are issues about bugs and features of 
 The 1999 role-playing video game brought a huge impact. Hence this is one of my favorite games, I’ll share some of the information. I got some of the information on youtube to fix the issues and below are the files: https://www.youtube.com/watch?v=E9YbiTpBPrs you can also look for more details <a href="http://healthydogbeds.com/"><b>here</b></a>.
 
 I also uploaded the screenshot I have: 
-
+![screenshot](https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Final_Fantasy_8_ntsc-front.jpg/250px-Final_Fantasy_8_ntsc-front.jpg)
 
 
 
